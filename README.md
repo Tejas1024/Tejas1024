@@ -1,1286 +1,692 @@
 <div align="center">
 
-<!-- ANIMATED HEADER WITH MATRIX EFFECT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,12,20,24,27,30&height=300&section=header&text=TEJAS%20GOWDA%20T%20R&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI/ML%20%7C%20DevOps%20Engineer&descAlignY=55&descSize=25"/>
+<!-- CINEMATIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=230&section=header&text=TEJAS%20GOWDA&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%9A%A1%20AI%2FML%20Engineer%20%E2%9A%A1%20DevOps%20Expert&descSize=20&descAlignY=65"/>
 
-<!-- TERMINAL-STYLE INTRO -->
-```bash
-┌──(tejas@machine)-[~/github/profile]
-└─$ ./introduce.sh
+<!-- DYNAMIC HERO SECTION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Automating+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Crafting+Scalable+Web+Applications+%F0%9F%9A%80;Master's+Graduate+%7C+1%2B+Year+Experience+%F0%9F%8E%93" alt="Dynamic Intro" />
 
-> Initializing profile...
-> Loading expertise... ████████████████████ 100%
-> Deploying innovation... ✓
-> Status: READY TO BUILD AMAZING THINGS
-
- ┌─────────────────────────────────────────────┐
- │  "Code is poetry, DevOps is the rhythm,    │
- │   and AI is the future we're creating"      │
- └─────────────────────────────────────────────┘
-```
-
-<div>
+<!-- SLEEK CONTACT BADGES -->
+<p align="center">
   <a href="mailto:tejaspavithra2002@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-DD5144?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/tejasgowda-t-064b41283">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Tejas1024">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://kypaauui.manus.space/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="tel:+918296082806">
-    <img src="https://img.shields.io/badge/📱_+91_8296082806-25D366?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
-</div>
+</p>
 
-<br>
-
-<!-- DYNAMIC TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Transforming+Ideas+into+Code;Building+AI-Powered+Solutions;Automating+Infrastructure+%7C+DevOps+Expert;1%2B+Year+%7C+Master's+Graduate+%7C+Problem+Solver" alt="Typing SVG" />
-
-<!-- PROFILE VIEWS WITH CUSTOM STYLE -->
-<img src="https://komarev.com/ghpvc/?username=Tejas1024&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Tejas1024&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-<br>
+<br/>
 
 ---
 
-<!-- HOLOGRAPHIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## 🎯 SYSTEM STATUS: ONLINE & DEPLOYING
+<br/>
 
 <div align="center">
 
-<!-- 3D ROTATING STATS -->
-| ⚡ **METRIC** | 📊 **STATUS** | 🎯 **ACHIEVEMENT** |
-|:---:|:---:|:---:|
-| **Manual Work Reduced** | ![](https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ffa500&successColor=00ff00) | **80% Faster** |
-| **Recruitment Screening** | ![](https://geps.dev/progress/70?dangerColor=ff0000&warningColor=ffa500&successColor=00ff00) | **70% Improved** |
-| **Job Match Accuracy** | ![](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ffa500&successColor=00ff00) | **85% Precision** |
-| **Research Time** | ![](https://geps.dev/progress/95?dangerColor=ff0000&warningColor=ffa500&successColor=00ff00) | **Hours → Seconds** |
+## ⚡ IMPACT METRICS
 
-</div>
-
-<br>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 🚀 MISSION CONTROL: WHO AM I?
-
+<!-- VISUAL METRICS DASHBOARD -->
 <table>
 <tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 **The Developer**
-
-```yaml
-name: "Tejas Gowda T R"
-location: "Bangalore, Karnataka 🇮🇳"
-education: "Master of Computer Applications (2025)"
-role: |
-  Full Stack Developer +
-  AI/ML Engineer +
-  DevOps Enthusiast
-  
-current_mission:
-  - Building AI-powered platforms
-  - Automating cloud infrastructure  
-  - Creating scalable web applications
-  - Optimizing CI/CD pipelines
-
-philosophy: |
-  "If it takes more than 10 seconds,
-   automate it. If it can be smarter,
-   add AI. If it can scale better,
-   use the cloud."
-
-success_metrics:
-  manual_reduction: "80%+"
-  code_quality: "Production-Grade"
-  learning_mode: "Always ON"
-  coffee_intake: "∞"
-```
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/80%25-00D9FF?style=for-the-badge" height="60"/>
+<br/>
+<b>Manual Work Reduced</b>
+<br/>
+<sub>Automated complex workflows</sub>
 </td>
-<td width="40%" valign="top">
-
-### 🎮 **Power-Ups Unlocked**
-
-```javascript
-const achievements = {
-  🏢 experience: "1+ years",
-  💼 internships: 2,
-  🚀 projects: "20+",
-  🎓 certifications: 5,
-  ⭐ github_stars: "Growing",
-  🔥 streak: "Active",
-  
-  superpowers: [
-    "⚡ Rapid Prototyping",
-    "🤖 AI Integration",
-    "☁️ Cloud Architecture", 
-    "🔄 DevOps Automation",
-    "📊 Data Engineering",
-    "🎨 UI/UX Design"
-  ],
-  
-  activeBuffs: {
-    learning: "Kubernetes & LLMs",
-    building: "DevOps Pipelines",
-    exploring: "Cloud Native Apps"
-  }
-};
-```
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas1024&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="100%"/>
-</div>
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/85%25-00FF85?style=for-the-badge" height="60"/>
+<br/>
+<b>AI Matching Accuracy</b>
+<br/>
+<sub>Precision job recommendations</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/70%25-FF6B6B?style=for-the-badge" height="60"/>
+<br/>
+<b>Faster Screening</b>
+<br/>
+<sub>Recruitment optimization</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Hours%20%E2%86%92%20Seconds-FFD700?style=for-the-badge" height="60"/>
+<br/>
+<b>Research Speed</b>
+<br/>
+<sub>Document intelligence platform</sub>
 </td>
 </tr>
 </table>
 
-<br>
-
-<!-- GLITCH EFFECT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-<br>
-
-## 💼 ACTIVE DEPLOYMENTS: EXPERIENCE
-
-<div align="center">
-
-### 🔧 **CURRENT: DevOps Engineer @ Robowaves**
-**`Jun 2025 - Present`** `|` **Building the Future of Infrastructure**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🛠️ OPERATIONS**
-```mermaid
-graph LR
-    A[Code Commit] -->|Jenkins| B[CI Pipeline]
-    B -->|Docker Build| C[Container]
-    C -->|K8s Deploy| D[Production]
-    D -->|Prometheus| E[Monitoring]
-    E -->|Grafana| F[Alerts]
-```
-
-</td>
-<td align="center" width="50%">
-
-**📊 TECH STACK**
-```yaml
-tools:
-  ci_cd: Jenkins, GitHub Actions
-  containers: Docker, Kubernetes
-  cloud: AWS (EC2, S3, IAM)
-  monitoring: Prometheus, Grafana
-  scripting: Shell, Python
-  os: Linux (Ubuntu, RHEL)
-```
-
-</td>
-</tr>
-</table>
-
-**🎯 Key Wins:**
-- ⚙️ Built automated CI/CD pipelines reducing deployment time by 60%
-- 🐳 Containerized 10+ applications with Docker + Kubernetes orchestration
-- ☁️ Managed AWS infrastructure with 99.9% uptime
-- 📊 Implemented monitoring solutions catching issues before users do
-
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
+<br/>
 
-### 🐍 **COMPLETED: Python Full Stack @ Pentagon Space**
-**`Oct 2024 - Apr 2025`** `|` **6-Month Intensive Bootcamp**
-
-<details>
-<summary><b>🔽 Click to View Full Training Path</b></summary>
-
-<br>
-
-| **PHASE** | **MODULES** | **OUTCOME** |
-|:---:|---|:---:|
-| **Phase 1** | Core Python, OOP, DSA | ✅ Fundamentals Mastered |
-| **Phase 2** | Django, REST APIs, PostgreSQL | ✅ Backend Expert |
-| **Phase 3** | ReactJS, Redux, TailwindCSS | ✅ Frontend Pro |
-| **Phase 4** | MongoDB, Redis, Celery | ✅ Advanced Concepts |
-| **Phase 5** | Real-world Projects | ✅ Production Ready |
-
-**🏆 Achievements:**
-- Built 8+ full-stack applications from scratch
-- Mastered REST API design patterns
-- Deployed production-grade e-commerce platform
-- Scored 95%+ in all assessments
-
-**📜 [View Certificate](https://drive.google.com/file/d/1ByVQcJFvOfw2fyrP3IWOCNgUkIvqnFUB/view?usp=sharing)**
-
-</details>
-
-</div>
-
-<br>
-
-<!-- TECH WAVE DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-<br>
-
-## ⚔️ WEAPONS ARSENAL: TECH STACK
-
-<div align="center">
-
-<!-- ANIMATED SKILL BARS -->
-### 🔥 **PROFICIENCY LEVELS**
-
-| **CATEGORY** | **TECHNOLOGIES** | **LEVEL** |
-|:---|:---|:---:|
-| **Languages** | Python • JavaScript • SQL • Bash | ![](https://geps.dev/progress/90) |
-| **Frontend** | React • Streamlit • TailwindCSS • HTML/CSS | ![](https://geps.dev/progress/85) |
-| **Backend** | Django • FastAPI • REST APIs • GraphQL | ![](https://geps.dev/progress/90) |
-| **Databases** | PostgreSQL • MongoDB • MySQL • Redis | ![](https://geps.dev/progress/85) |
-| **DevOps** | Docker • K8s • Jenkins • AWS • Terraform | ![](https://geps.dev/progress/80) |
-| **AI/ML** | TensorFlow • scikit-learn • NLP • LLMs | ![](https://geps.dev/progress/75) |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- TECH STACK WITH ICONS -->
-### 💻 **THE COMPLETE TOOLKIT**
+## 🎯 PROFESSIONAL SUMMARY
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" /><br>
-<sub><b>Backend Power</b></sub>
+<td width="50%">
+
+**Master's Graduate** in Computer Applications specializing in **AI-powered platforms**, **full-stack development**, and **cloud infrastructure automation**.
+
+**Key Strengths:**
+- 🚀 Rapid prototyping and deployment
+- 🤖 AI/ML integration expert
+- ☁️ Cloud-native architecture
+- 🔄 DevOps automation specialist
+- 📊 Data-driven decision making
+- 🎨 User-centric design approach
+
+**Currently:** DevOps Engineer at Robowaves, building scalable CI/CD pipelines and container orchestration systems.
+
 </td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=react,js,html,css" /><br>
-<sub><b>Frontend Magic</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws" /><br>
-<sub><b>DevOps Arsenal</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /><br>
-<sub><b>Data Storage</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /><br>
-<sub><b>Dev Tools</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn," /><br>
-<sub><b>AI/ML Stack</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" /><br>
-<sub><b>UI Frameworks</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=nginx,grafana,prometheus" /><br>
-<sub><b>Monitoring</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=postman,gitlab,githubactions" /><br>
-<sub><b>CI/CD Tools</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=bash,powershell,vim" /><br>
-<sub><b>Scripting</b></sub>
+<td width="50%">
+
+<div align="center">
+
+**🎓 EDUCATION**
+<br/>
+Master of Computer Applications (2025)
+<br/>
+Bangalore, Karnataka 🇮🇳
+
+<br/><br/>
+
+**💼 EXPERIENCE**
+<br/>
+1+ Year Industry Experience
+<br/>
+2 Intensive Internships
+<br/>
+20+ Production Projects
+
+<br/><br/>
+
+**🏆 ACHIEVEMENTS**
+<br/>
+5 Professional Certifications
+<br/>
+Multiple Impact-Driven Projects
+<br/>
+Active Open Source Contributor
+
+</div>
+
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<br>
+---
 
-<!-- MATRIX RAIN DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<br/>
 
-<br>
+## 💼 PROFESSIONAL EXPERIENCE
 
-## 🎮 LEGENDARY PROJECTS: PORTFOLIO
-
-<div align="center">
-
-<!-- PROJECT SHOWCASE WITH CARDS -->
+### 🔧 DevOps Engineer | **Robowaves**
+**Jun 2025 - Present** | Building Modern Infrastructure
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 **Personal AI Advisor**
-[![Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-00D9FF?style=for-the-badge)](https://personal-ai-advisor-ftulhqxgxxn6jspu8xxw6f.streamlit.app/)
-
-**LLM-Powered Document Intelligence**
-
-```python
-impact = {
-    "time_saved": "hours → seconds",
-    "user_type": "non-technical",
-    "domains": ["Finance", "Legal", "Healthcare"],
-    "magic": "Zero-setup AI deployment"
-}
-```
-
-**🌟 Features:**
-- 🧠 Personalized domain-specific AI advisors
-- 📄 Auto document-to-knowledge conversion
-- 🔍 Natural language querying
-- 🚀 RAG architecture for accuracy
-
-**Tech:** `Python` `Streamlit` `LLM` `RAG` `NLP`
+**Key Responsibilities:**
+- ⚙️ Architecting CI/CD pipelines with Jenkins
+- 🐳 Containerization with Docker & Kubernetes
+- ☁️ AWS infrastructure management (EC2, S3, IAM)
+- 📊 Monitoring with Prometheus & Grafana
+- 🐧 Linux system automation with Shell scripting
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 💰 **Smart Expense Tracker**
-[![Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-00D9FF?style=for-the-badge)](https://smart-expense-tracker-with-ai-insig-eight.vercel.app/login)
+**Technologies:**
+<br/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-**AI-Powered Financial Management**
-
-```javascript
-const results = {
-  manualReduction: "80%",
-  features: ["OCR", "ML", "AI Insights"],
-  security: "Bank-Grade",
-  responsive: true
-};
-```
-
-**🌟 Features:**
-- 📸 OCR receipt scanning
-- 🤖 Smart auto-categorization
-- 💡 AI budget recommendations
-- 📊 Predictive spending analytics
-
-**Tech:** `React` `Django` `OCR` `ML` `PostgreSQL`
+**Impact:** 60% reduction in deployment time, 99.9% uptime
 
 </td>
 </tr>
+</table>
 
+<br/>
+
+### 🐍 Python Full Stack Developer | **Pentagon Space Pvt. Ltd**
+**Oct 2024 - Apr 2025** | 6-Month Intensive Training
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 **AI Resume Matcher**
-[![Code](https://img.shields.io/badge/📦_CODE-00D9FF?style=for-the-badge)](https://github.com/Tejas1024)
-
-**Intelligent Recruitment Platform**
-
-```yaml
-performance:
-  screening_speed: "+70%"
-  matching_accuracy: "85%"
-  profiles_processed: "200+ in seconds"
-  algorithm: "TF-IDF + KNN"
-```
-
-**🌟 Features:**
-- 🔍 Automated resume parsing
-- 🎯 Precision job matching
-- 🤖 ML-based recommendations
-- 📊 Recruiter analytics dashboard
-
-**Tech:** `Python` `NLP` `TF-IDF` `KNN` `MongoDB`
+**Training Modules:**
+- Core & Advanced Python, OOP, DSA
+- Django, REST APIs, GraphQL
+- ReactJS, Redux, TailwindCSS
+- PostgreSQL, MongoDB, Redis
+- 8+ Real-world production projects
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🛒 **E-Commerce Platform**
-[![Code](https://img.shields.io/badge/📦_CODE-00D9FF?style=for-the-badge)](https://github.com/Tejas1024)
+**Certifications:**
+<br/>
+<a href="https://drive.google.com/file/d/1ByVQcJFvOfw2fyrP3IWOCNgUkIvqnFUB/view?usp=sharing">
+<img src="https://img.shields.io/badge/View_Certificate-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white"/>
+</a>
+
+**Achievements:**
+- 95%+ assessment scores
+- Built production-grade e-commerce platform
+- Mastered full-stack development lifecycle
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 🛠️ TECHNOLOGY STACK
+
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash&perline=5" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui&perline=4" />
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express&perline=4" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=4" />
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,git,github,gitlab,linux&perline=8" />
+
+### AI/ML & Tools
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,vscode&perline=4" />
+
+<br/>
+
+### Proficiency Levels
+
+| Category | Technologies | Level |
+|----------|--------------|-------|
+| **Backend** | Python, Django, FastAPI, REST APIs | ![](https://progress-bar.dev/90/?width=200&color=6366F1) |
+| **Frontend** | React, JavaScript, TailwindCSS | ![](https://progress-bar.dev/85/?width=200&color=6366F1) |
+| **DevOps** | Docker, Kubernetes, Jenkins, AWS | ![](https://progress-bar.dev/80/?width=200&color=6366F1) |
+| **Databases** | PostgreSQL, MongoDB, Redis | ![](https://progress-bar.dev/85/?width=200&color=6366F1) |
+| **AI/ML** | TensorFlow, NLP, LLMs | ![](https://progress-bar.dev/75/?width=200&color=6366F1) |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<!-- PROJECT 1 -->
+<table>
+<tr>
+<td width="40%" align="center">
+<img src="https://img.shields.io/badge/🤖_Personal_AI_Advisor-6366F1?style=for-the-badge" height="40"/>
+<br/><br/>
+<a href="https://personal-ai-advisor-ftulhqxgxxn6jspu8xxw6f.streamlit.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</td>
+<td width="60%">
+
+**LLM-Powered Document Intelligence Platform**
+
+Revolutionizing how non-technical users interact with AI. Transform documents into intelligent advisors instantly.
+
+**Impact:** Research time reduced from hours to seconds
+
+**Tech Stack:** Python · Streamlit · LLM · RAG · NLP
+
+**Features:** Domain-specific AI advisors · Auto document conversion · Natural language querying · Zero-setup deployment
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 2 -->
+<table>
+<tr>
+<td width="40%" align="center">
+<img src="https://img.shields.io/badge/💰_Smart_Expense_Tracker-00FF85?style=for-the-badge" height="40"/>
+<br/><br/>
+<a href="https://smart-expense-tracker-with-ai-insig-eight.vercel.app/login">
+<img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</td>
+<td width="60%">
+
+**AI-Powered Financial Management Platform**
+
+Intelligent expense tracking with OCR receipt scanning, ML categorization, and AI budget recommendations.
+
+**Impact:** 80% reduction in manual expense entry
+
+**Tech Stack:** React · Django · OCR · ML · PostgreSQL
+
+**Features:** Receipt scanning · Smart auto-categorization · AI insights · Predictive analytics · Bank-grade security
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 3 -->
+<table>
+<tr>
+<td width="40%" align="center">
+<img src="https://img.shields.io/badge/🎯_AI_Resume_Matcher-FF6B6B?style=for-the-badge" height="40"/>
+<br/><br/>
+<a href="https://github.com/Tejas1024">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="60%">
+
+**Intelligent Recruitment Automation Platform**
+
+ML-powered system for automated resume analysis and precision job matching using TF-IDF and KNN algorithms.
+
+**Impact:** 70% faster screening · 85% matching accuracy
+
+**Tech Stack:** Python · NLP · TF-IDF · KNN · MongoDB
+
+**Features:** Automated parsing · Precision matching · ML recommendations · Analytics dashboard
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 4 -->
+<table>
+<tr>
+<td width="40%" align="center">
+<img src="https://img.shields.io/badge/🛒_E--Commerce_Platform-FFD700?style=for-the-badge" height="40"/>
+<br/><br/>
+<a href="https://github.com/Tejas1024">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="60%">
 
 **Full-Stack Shopping Solution**
 
-```json
-{
-  "features": {
-    "user": "Browse, Cart, Checkout, Track",
-    "admin": "Products, Orders, Analytics",
-    "auth": "JWT + Role-based",
-    "mobile": "Fully Responsive"
-  }
-}
-```
+Production-ready e-commerce platform with complete shopping flow, admin dashboard, and real-time analytics.
 
-**🌟 Features:**
-- 🛍️ Complete shopping flow
-- 👨‍💼 Admin dashboard
-- 🔒 Secure authentication
-- 📊 Real-time analytics
+**Tech Stack:** Django · React · PostgreSQL · REST API · TailwindCSS
 
-**Tech:** `Django` `React` `PostgreSQL` `REST API`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 **Nexus RAG Chatbot**
-[![Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-00D9FF?style=for-the-badge)](https://nexus-rag-chatbot.streamlit.app)
-
-**Cyberpunk AI Assistant**
-
-```css
-.features {
-  ui: "Futuristic Glassmorphism";
-  formats: ["PDF", "DOCX", "CSV", "JSON"];
-  access: "Role-Based (Admin/User)";
-  ai: "Local + Cloud Hybrid";
-}
-```
-
-**🌟 Features:**
-- 🎨 Animated holographic UI
-- 📄 Multi-format document support
-- 🔐 Secure document management
-- 🧠 Context-aware responses
-
-**Tech:** `Streamlit` `scikit-learn` `HuggingFace`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 **Smart Agri Planner**
-[![Code](https://img.shields.io/badge/📦_CODE-00D9FF?style=for-the-badge)](https://github.com/Tejas1024)
-
-**Multi-Language Farmer Support**
-
-```python
-accessibility = {
-    "languages": 6,  # Indian languages
-    "data_driven": True,
-    "visual_analytics": "Charts + Graphs",
-    "offline_reports": "CSV Export"
-}
-```
-
-**🌟 Features:**
-- 🌍 6 Indian language support
-- 🎯 Soil & climate-based recommendations
-- 💰 ROI calculator
-- 🐛 Pest risk analysis
-
-**Tech:** `Streamlit` `Pandas` `Plotly` `SQLite`
+**Features:** Complete shopping experience · Admin management · JWT authentication · Real-time analytics · Mobile responsive
 
 </td>
 </tr>
 </table>
 
-<!-- PROJECT METRICS -->
-### 📊 **PROJECT IMPACT SUMMARY**
+<!-- PROJECT 5 -->
+<table>
+<tr>
+<td width="40%" align="center">
+<img src="https://img.shields.io/badge/🤖_Nexus_RAG_Chatbot-9D4EDD?style=for-the-badge" height="40"/>
+<br/><br/>
+<a href="https://nexus-rag-chatbot.streamlit.app">
+<img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</td>
+<td width="60%">
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie title "Technologies Used Across Projects"
-    "Python & Django" : 35
-    "React & Frontend" : 25
-    "AI/ML & NLP" : 20
-    "DevOps & Cloud" : 12
-    "Databases" : 8
-```
+**Cyberpunk-Styled AI Document Assistant**
+
+Futuristic UI with multi-format document support, role-based access, and hybrid AI processing.
+
+**Tech Stack:** Streamlit · scikit-learn · HuggingFace · SQLite
+
+**Features:** Glassmorphism UI · Multi-format support · Role-based access · Context-aware responses · Holographic effects
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 6 -->
+<table>
+<tr>
+<td width="40%" align="center">
+<img src="https://img.shields.io/badge/🌾_Smart_Agri_Planner-52B788?style=for-the-badge" height="40"/>
+<br/><br/>
+<a href="https://github.com/Tejas1024">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="60%">
+
+**Multi-Language Farmer Decision Support System**
+
+Accessible agricultural planning tool supporting 6 Indian languages with data-driven crop recommendations.
+
+**Tech Stack:** Streamlit · Pandas · Plotly · SQLite
+
+**Features:** 6 language support · Soil-based recommendations · ROI calculator · Pest risk analysis · Visual analytics · Offline reports
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+<br/>
 
-<!-- FUTURISTIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50cadf7-b1e4-44d7-a9c5-50e3f9fadd6a.gif" width="100%">
+---
 
-<br>
+<br/>
 
-## 🏆 ACHIEVEMENT UNLOCKED: CERTIFICATIONS
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Python-Full_Stack_Developer-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<br><b>🎓 Python Full Stack</b>
-<br><i>Pentagon Space Pvt. Ltd</i>
-<br><sub>6-Month Intensive Training</sub>
-<br><a href="https://drive.google.com/file/d/1ByVQcJFvOfw2fyrP3IWOCNgUkIvqnFUB/view?usp=sharing">
-<img src="https://img.shields.io/badge/View_Certificate-FF6B6B?style=flat-square"/>
-</a>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Python-Full_Stack-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br/><b>Full Stack Developer</b>
+<br/><sub>Pentagon Space</sub>
+<br/><a href="https://drive.google.com/file/d/1ByVQcJFvOfw2fyrP3IWOCNgUkIvqnFUB/view?usp=sharing">📜 Certificate</a>
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/JavaScript-Certified_Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<br><b>⚡ JavaScript</b>
-<br><i>HackerRank</i>
-<br><sub>Advanced Proficiency</sub>
-<br><a href="https://drive.google.com/file/d/1C8icroWne4_SB4-gcmklA-VVBCyC-ljS/view?usp=sharing">
-<img src="https://img.shields.io/badge/View_Certificate-FF6B6B?style=flat-square"/>
-</a>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/JavaScript-Certified-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br/><b>JavaScript</b>
+<br/><sub>HackerRank</sub>
+<br/><a href="https://drive.google.com/file/d/1C8icroWne4_SB4-gcmklA-VVBCyC-ljS/view?usp=sharing">📜 Certificate</a>
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Python-Advanced_Certification-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-<br><b>🐍 Python Advanced</b>
-<br><i>Scaler Topics</i>
-<br><sub>Deep Dive Mastery</sub>
-<br><a href="https://drive.google.com/file/d/1CAYpVV8WD7GeZVkIiDDcXfoQm1H8uDYd/view?usp=sharing">
-<img src="https://img.shields.io/badge/View_Certificate-FF6B6B?style=flat-square"/>
-</a>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Python-Advanced-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+<br/><b>Advanced Python</b>
+<br/><sub>Scaler Topics</sub>
+<br/><a href="https://drive.google.com/file/d/1CAYpVV8WD7GeZVkIiDDcXfoQm1H8uDYd/view?usp=sharing">📜 Certificate</a>
 </td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Data_Structures-Mastery_Level-FF6B35?style=for-the-badge&logo=datadog&logoColor=white"/>
-<br><b>📊 Data Structures</b>
-<br><i>Scaler Topics</i>
-<br><sub>Algorithms & Optimization</sub>
-<br><a href="https://drive.google.com/file/d/1CB5kOAOWv1LaGPMlgKzokwDnqK_Na8uY/view?usp=sharing">
-<img src="https://img.shields.io/badge/View_Certificate-FF6B6B?style=flat-square"/>
-</a>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Data_Structures-Mastered-FF6B35?style=for-the-badge&logo=datadog&logoColor=white"/>
+<br/><b>Data Structures</b>
+<br/><sub>Scaler Topics</sub>
+<br/><a href="https://drive.google.com/file/d/1CB5kOAOWv1LaGPMlgKzokwDnqK_Na8uY/view?usp=sharing">📜 Certificate</a>
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/DevOps-Currently_Training-7B68EE?style=for-the-badge&logo=devdotto&logoColor=white"/>
-<br><b>🔧 DevOps Engineering</b>
-<br><i>Robowaves</i>
-<br><sub>Hands-on Experience (Ongoing)</sub>
-<br><img src="https://img.shields.io/badge/In_Progress-00D9FF?style=flat-square"/>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br><b>☁️ Cloud Architecture</b>
-<br><i>AWS (Target: Q1 2026)</i>
-<br><sub>Currently Preparing</sub>
-<br><img src="https://img.shields.io/badge/Learning-00D9FF?style=flat-square"/>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DevOps-In_Progress-7B68EE?style=for-the-badge&logo=devdotto&logoColor=white"/>
+<br/><b>DevOps</b>
+<br/><sub>Robowaves</sub>
+<br/>Ongoing Training
 </td>
 </tr>
 </table>
 
 </div>
 
-<br>
+<br/>
 
-<!-- DIGITAL RAIN DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<br>
+<br/>
 
-## 📈 LIVE METRICS: GITHUB ANALYTICS
-
-<div align="center">
-
-<!-- ADVANCED STATS GRID -->
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas1024&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&ring_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas1024&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" width="48%" />
-
-<!-- LANGUAGE BREAKDOWN -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1024&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" width="48%" />
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas1024&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" width="98%" />
-
-<!-- TROPHY SHOWCASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=Tejas1024&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" width="98%" />
-
-</div>
-
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas1024/Tejas1024/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas1024/Tejas1024/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tejas1024/Tejas1024/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<!-- ELECTRIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 🎯 MISSION OBJECTIVES: CURRENT FOCUS
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<!-- ROADMAP VISUALIZATION -->
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00D9FF'}}}%%
-timeline
-    title 2025-2026 Learning & Growth Roadmap
-    section Q4 2025
-        DevOps Mastery : Kubernetes Deep Dive
-                       : Terraform IaC
-                       : Advanced CI/CD
-    section Q1 2026
-        Cloud Expertise : AWS Solutions Architect
-                       : Multi-Cloud Strategy
-                       : Serverless Architecture
-    section Q2 2026
-        AI Evolution : Production LLM Apps
-                    : Vector Databases
-                    : AI Agent Development
-    section Q3 2026
-        Open Source : 10+ Contributions
-                   : Own Framework/Library
-                   : Tech Blog Launch
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Tejas1024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas1024&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas1024&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" width="49%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tejas1024&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="98%" />
 
 </div>
 
-<br>
+<br/>
+
+---
+
+<br/>
+
+## 🎯 CURRENT FOCUS & GOALS
+
+<div align="center">
+
+**2025-2026 Learning Roadmap**
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🚀 **CURRENTLY LEARNING**
+### 🚀 Currently Learning
 
-```yaml
-devops_track:
-  kubernetes:
-    - Pod orchestration & scaling
-    - Service mesh (Istio)
-    - Helm charts
-    - CKA certification prep
-  
-  infrastructure:
-    - Terraform deep dive
-    - AWS CloudFormation
-    - Ansible automation
-    - GitOps workflows
-  
-  monitoring:
-    - Prometheus + Thanos
-    - Grafana dashboards
-    - ELK stack mastery
-    - Distributed tracing
+**DevOps Track:**
+- Kubernetes orchestration & CKA preparation
+- Terraform Infrastructure as Code
+- Advanced CI/CD with GitOps workflows
+- Monitoring with Prometheus & Grafana
 
-ai_ml_track:
-  llm_engineering:
-    - RAG architectures
-    - Vector databases (Pinecone, Weaviate)
-    - Prompt engineering
-    - Fine-tuning models
-  
-  deployment:
-    - Model serving (TorchServe)
-    - A/B testing frameworks
-    - ML pipeline automation
-    - Cost optimization
-```
+**AI/ML Track:**
+- Large Language Models & RAG architectures
+- Vector databases (Pinecone, Weaviate)
+- Prompt engineering & model fine-tuning
+- Production ML deployment strategies
+
+**Cloud Track:**
+- AWS Solutions Architect certification
+- Multi-cloud architecture patterns
+- Serverless computing
+- Cost optimization strategies
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 **2025-2026 GOALS**
+### 🎯 2025-2026 Goals
 
-```python
-class Goals2025:
-    def __init__(self):
-        self.certifications = [
-            "☁️ AWS Solutions Architect",
-            "🐳 Kubernetes CKA",
-            "🔐 AWS Security Specialty"
-        ]
-        
-        self.contributions = {
-            "open_source": "10+ meaningful PRs",
-            "tech_blog": "24+ articles",
-            "youtube": "Start tech channel",
-            "mentorship": "Help 50+ developers"
-        }
-        
-        self.projects = [
-            "Build SaaS product",
-            "Create npm/pip package",
-            "Launch AI-powered tool",
-            "Contribute to CNCF"
-        ]
-        
-        self.skills = {
-            "master": ["K8s", "Terraform", "LLMs"],
-            "learn": ["Rust", "Go", "WebAssembly"],
-            "improve": ["System Design", "Scalability"]
-        }
-        
-    def execute(self):
-        print("🚀 Mission started. No turning back!")
-        return "Success guaranteed with persistence"
-```
+**Certifications:**
+- ☁️ AWS Solutions Architect Associate
+- 🐳 Certified Kubernetes Administrator (CKA)
+- 🔐 AWS Security Specialty
 
-**📊 Progress Tracking:**
-- ✅ DevOps fundamentals mastered
-- 🔄 Kubernetes certification (60% complete)
-- 🔄 AWS Solutions Architect (preparing)
-- 📈 Open source contributions started
-- 🎯 Building production LLM apps
+**Projects & Contributions:**
+- Build and launch a SaaS product
+- Contribute to 10+ open-source projects
+- Create npm/pip package for developers
+- Start technical blog (24+ articles)
+
+**Community & Growth:**
+- Mentor 50+ developers
+- Speak at tech meetups
+- Launch YouTube tech channel
+- Build AI-powered developer tools
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
-<br>
+<br/>
 
-## 💡 WHAT MAKES ME DIFFERENT
+## 💡 WHAT SETS ME APART
 
 <div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
-
-### ⚡ **SPEED**
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
-
-**80%** reduction in manual processes
-
-Optimized workflows from hours to seconds
-
-Rapid prototyping & deployment
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/80%25-Efficiency-00D9FF?style=for-the-badge" height="50"/>
+<br/><br/>
+<b>Results-Driven</b>
+<br/>
+<sub>Consistent track record of optimizing workflows and reducing manual processes by 80%+</sub>
 </td>
-<td width="25%" align="center">
-
-### 🎯 **PRECISION**
-
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80" />
-
-**85%** AI matching accuracy
-
-Production-grade code quality
-
-Detail-oriented solutions
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/85%25-Accuracy-00FF85?style=for-the-badge" height="50"/>
+<br/><br/>
+<b>Precision-Focused</b>
+<br/>
+<sub>High-quality code with 85% AI matching accuracy in production systems</sub>
 </td>
-<td width="25%" align="center">
-
-### 🚀 **INNOVATION**
-
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" />
-
-AI-powered platforms built from scratch
-
-Bleeding-edge tech adoption
-
-Creative problem solving
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AI-Innovation-FF6B6B?style=for-the-badge" height="50"/>
+<br/><br/>
+<b>Innovation Leader</b>
+<br/>
+<sub>Building AI-powered platforms from scratch that solve real-world problems</sub>
 </td>
-<td width="25%" align="center">
-
-### 🎓 **GROWTH**
-
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4f5a-8f44-d1e7a2278d9e.png" width="80" />
-
-Continuous learning mindset
-
-**1+ year** intensive training
-
-Always exploring new tech
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/1%2B-Year-FFD700?style=for-the-badge" height="50"/>
+<br/><br/>
+<b>Fast Learner</b>
+<br/>
+<sub>Mastered full-stack development, DevOps, and AI/ML in intensive training programs</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<br>
+<br/>
 
-<!-- COMPETITIVE EDGE TABLE -->
-<div align="center">
+**Core Strengths:**
+- 🧠 **Problem Solver:** Transform complex challenges into elegant, scalable solutions
+- 🏗️ **System Architect:** Design production-ready, secure, and maintainable applications
+- 🤖 **AI Integrator:** Seamlessly integrate intelligent features into traditional applications
+- ☁️ **Cloud Expert:** Build and manage cloud-native infrastructure with 99.9% uptime
+- 🔄 **Automation Specialist:** Reduce deployment time by 60% through CI/CD optimization
+- 📚 **Continuous Learner:** Always exploring cutting-edge technologies and best practices
+- 🤝 **Team Collaborator:** Strong communication skills and collaborative mindset
+- 💪 **Persistent:** Never stop until the problem is elegantly solved
 
-### 🔥 **THE COMPETITIVE EDGE**
+<br/>
 
-| **TRAIT** | **EVIDENCE** | **IMPACT** |
-|:---|:---|:---:|
-| 🧠 **Problem Solver** | Built AI tools for non-technical users | ⭐⭐⭐⭐⭐ |
-| 🏗️ **Architect** | Designed scalable, secure applications | ⭐⭐⭐⭐⭐ |
-| 🤖 **AI Enthusiast** | Integrated LLMs into production apps | ⭐⭐⭐⭐⭐ |
-| ☁️ **Cloud Native** | AWS + Docker + K8s deployment expert | ⭐⭐⭐⭐⭐ |
-| 🔄 **DevOps Focused** | CI/CD pipelines reducing deploy time 60% | ⭐⭐⭐⭐⭐ |
-| 📚 **Fast Learner** | Mastered full-stack + DevOps in 1 year | ⭐⭐⭐⭐⭐ |
-| 🤝 **Team Player** | Collaborative, communicative, adaptable | ⭐⭐⭐⭐⭐ |
-| 💪 **Persistent** | Never stops until problem is solved | ⭐⭐⭐⭐⭐ |
+---
 
-</div>
+<br/>
 
-<br>
-
-<!-- HOLOGRAPHIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-<br>
-
-## 🌐 CONNECT WITH ME: LET'S BUILD TOGETHER
+## 📫 LET'S CONNECT
 
 <div align="center">
 
-<!-- 3D CONTACT CARDS -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Open+to+Full-Time+Opportunities;Available+for+Freelance+Projects;Interested+in+Open-Source+Collaboration;Let's+Build+Something+Amazing!" alt="Availability" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="20%">
 <a href="mailto:tejaspavithra2002@gmail.com">
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d4b4d7e.png" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+<br/><b>Email Me</b>
 </a>
-<br><sub>tejaspavithra2002@gmail.com</sub>
+<br/><sub>< 24 hours response</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://www.linkedin.com/in/tejasgowda-t-064b41283">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+<br/><b>Connect</b>
 </a>
-<br><sub>Let's network!</sub>
+<br/><sub>Professional networking</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/Tejas1024">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+<br/><b>Follow</b>
 </a>
-<br><sub>Check my code</sub>
+<br/><sub>Check my projects</sub>
 </td>
 <td align="center" width="20%">
 <a href="https://kypaauui.manus.space/">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"/>
+<br/><b>Visit</b>
 </a>
-<br><sub>See my work</sub>
+<br/><sub>Explore my work</sub>
 </td>
 <td align="center" width="20%">
 <a href="tel:+918296082806">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-1f9555e2-6784-40ee-b0f0-d5e59c6e5db6.png" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/>
+<br/><b>Call</b>
 </a>
-<br><sub>+91 8296082806</sub>
+<br/><sub>+91 8296082806</sub>
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-### 💼 **OPEN TO OPPORTUNITIES**
+### 💼 Open For
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-```javascript
-const opportunities = {
-  fullTime: [
-    "Full Stack Developer",
-    "Backend Engineer (Python/Django)",
-    "DevOps Engineer",
-    "Cloud Engineer (AWS)",
-    "AI/ML Engineer"
-  ],
-  
-  freelance: [
-    "Web Application Development",
-    "API Design & Integration",
-    "DevOps Consulting",
-    "AI/ML Solutions",
-    "Cloud Migration"
-  ],
-  
-  openSource: [
-    "Contributing to CNCF projects",
-    "Building developer tools",
-    "Documentation improvements",
-    "Code reviews & mentoring"
-  ],
-  
-  interests: [
-    "Startup culture",
-    "Remote-first companies",
-    "Tech innovation hubs",
-    "Social impact projects"
-  ]
-};
-
-console.log("📩 Let's discuss how I can add value to your team!");
-```
-
-<br>
-
-<!-- INTERACTIVE STATS -->
-### 📊 **RESPONSE TIME GUARANTEE**
-
-| **PLATFORM** | **RESPONSE TIME** | **AVAILABILITY** |
-|:---:|:---:|:---:|
-| 📧 **Email** | < 24 hours | ![](https://img.shields.io/badge/24/7-Active-00D9FF) |
-| 💼 **LinkedIn** | < 12 hours | ![](https://img.shields.io/badge/24/7-Active-00D9FF) |
-| 📱 **Phone** | < 6 hours | ![](https://img.shields.io/badge/9AM--9PM_IST-Active-00D9FF) |
-| 🐙 **GitHub** | < 48 hours | ![](https://img.shields.io/badge/24/7-Active-00D9FF) |
+<img src="https://img.shields.io/badge/Full--Time_Roles-Full_Stack_|_DevOps_|_AI/ML-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance-Web_Apps_|_DevOps_|_Consulting-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-Contributions_|_Collaboration-00FF85?style=for-the-badge"/>
 
 </div>
 
-<br>
-
-<!-- ENERGY WAVE DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-<br>
-
-## 🎮 FUN FACTS & PERSONALITY
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **DEVELOPER PERSONALITY**
-
-```javascript
-const tejasDNA = {
-  workStyle: {
-    methodology: "Agile + DevOps",
-    codeQuality: "Clean Code Advocate",
-    testing: "TDD Believer",
-    documentation: "Always Updated",
-    debugging: "console.log() Champion 🏆"
-  },
-  
-  productivity: {
-    bestTimeToCode: "Night Owl 🦉",
-    fuelSource: "Coffee ☕ (Infinite Loop)",
-    musicChoice: "Lo-fi Beats 🎵",
-    favoriteIDE: "VS Code + Vim Motions",
-    motto: "Make it work → Make it right → Make it fast"
-  },
-  
-  philosophy: {
-    principle: "Automate everything possible",
-    belief: "AI should empower, not replace",
-    goal: "Build tools that help people",
-    dream: "Make complex tech accessible to all"
-  },
-  
-  quirks: [
-    "Can't start coding without coffee",
-    "Refactors code before sleeping",
-    "Dreams in Python and JavaScript",
-    "Has more GitHub repos than photos",
-    "Reads error messages like poetry 😅"
-  ]
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 **WHEN NOT CODING...**
-
-```python
-class LifeBalance:
-    def __init__(self):
-        self.hobbies = {
-            "🚀 Tech": [
-                "Exploring new frameworks",
-                "Reading tech blogs",
-                "Watching conference talks",
-                "Contributing to open source"
-            ],
-            "📚 Learning": [
-                "System design courses",
-                "Cloud architecture patterns",
-                "AI research papers",
-                "DevOps best practices"
-            ],
-            "🎯 Relaxation": [
-                "Sci-fi movies & shows",
-                "Strategy games",
-                "Tech podcasts",
-                "Nature walks 🌲"
-            ],
-            "🤝 Community": [
-                "Helping on Stack Overflow",
-                "Mentoring juniors",
-                "Writing tutorials",
-                "Tech meetups"
-            ]
-        }
-    
-    def daily_routine(self):
-        return """
-        ☕ Morning: Coffee + Code review
-        💻 Day: Build & Deploy
-        🌙 Evening: Learn new tech
-        🌃 Night: Side projects
-        """
-    
-    def fun_fact(self):
-        return "I once debugged for 6 hours " \
-               "only to find a missing semicolon. " \
-               "Best learning experience ever! 😂"
-```
-
-### 🏆 **ACHIEVEMENT STATS**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas1024&theme=radical" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- CYBER DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## 📝 LATEST BLOG POSTS & CONTENT
-
-<div align="center">
-
-<!-- Blog placeholder - update with actual links -->
-### ✍️ **SHARING KNOWLEDGE**
-
-> *"The best way to learn is to teach others"*
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15ace3d9-3501-4449-a7c0-459f6d4b8e6e.png" width="50"/>
-<br><b>Coming Soon!</b>
-<br>
-<i>📝 Tech Blog Launch</i>
-<br>
-<sub>Articles on DevOps, AI/ML, and Full-Stack Development</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122020-b09c4de6-1a6e-404b-92de-8e5d9bec0a62.png" width="50"/>
-<br><b>YouTube Channel</b>
-<br>
-<i>🎥 In Planning</i>
-<br>
-<sub>Tutorials, Project Walkthroughs, Tech Tips</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/>
-<br><b>Open Source Docs</b>
-<br>
-<i>📚 Contributing</i>
-<br>
-<sub>Improving documentation for better developer experience</sub>
-</td>
-</tr>
-</table>
-
-<!-- GitHub Activity -->
-### 📈 **RECENT ACTIVITY**
-
-<!--START_SECTION:activity-->
-<!-- This section will auto-update with GitHub Actions -->
-<!--END_SECTION:activity-->
-
-</div>
-
-<br>
-
-<!-- MATRIX DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br>
-
-## 💭 DEVELOPER WISDOM
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 📜 **QUOTES I CODE BY**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" width="100%"/>
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad&author=Cory%20House" width="100%"/>
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code&author=John%20Johnson" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ANIMATED SIGNATURE -->
-<div align="center">
-
-### ⚡ **THE TEJAS EFFECT**
-
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   "I don't just write code, I craft experiences."       ║
-║                                                           ║
-║   🎯 Mission: Transform complex ideas into elegant       ║
-║       solutions that make a real-world impact            ║
-║                                                           ║
-║   💡 Vision: Empower everyone with intelligent           ║
-║       technology, regardless of technical background     ║
-║                                                           ║
-║   🚀 Goal: Build the future, one commit at a time       ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-<!-- SUPPORT SECTION -->
-<div align="center">
-
-### ☕ **SUPPORT MY WORK**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60"/>
-<br><b>⭐ Star My Repos</b>
-<br>
-<sub>Show appreciation for my work</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15ace3d9-3501-4449-a7c0-459f6d4b8e6e.png" width="60"/>
-<br><b>🔀 Fork & Contribute</b>
-<br>
-<sub>Let's build together</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-1f9555e2-6784-40ee-b0f0-d5e59c6e5db6.png" width="60"/>
-<br><b>📢 Share My Work</b>
-<br>
-<sub>Spread the word</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🌟 **IF MY WORK HELPED YOU**
-
-[![GitHub followers](https://img.shields.io/github/followers/Tejas1024?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00D9FF)](https://github.com/Tejas1024)
-[![GitHub Stars](https://img.shields.io/github/stars/Tejas1024?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=FFD700)](https://github.com/Tejas1024)
-
-<sub>Every ⭐ motivates me to create more awesome projects!</sub>
-
-</div>
-
-<br>
-
-<!-- FINAL CALL TO ACTION -->
-<div align="center">
+<br/>
 
 ---
 
-### 🚀 **READY TO COLLABORATE?**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120">
-
-```typescript
-interface Collaboration {
-  project: string;
-  role: "Full Stack" | "DevOps" | "AI/ML" | "Consulting";
-  duration: "Full-time" | "Contract" | "Freelance";
-  startDate: Date;
-}
-
-const letsConnect: Collaboration = {
-  project: "Your Next Big Idea",
-  role: "Full Stack", // or any role!
-  duration: "Full-time",
-  startDate: new Date("ASAP")
-};
-
-// 📩 Send me a message and let's make it happen!
-console.log("tejaspavithra2002@gmail.com");
-```
-
-<br>
-
-<a href="mailto:tejaspavithra2002@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Let's_Talk!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="50"/>
-</a>
-<a href="https://www.linkedin.com/in/tejasgowda-t-064b41283">
-  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="50"/>
-</a>
-<a href="https://kypaauui.manus.space/">
-  <img src="https://img.shields.io/badge/🌐_View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="50"/>
-</a>
-
-</div>
-
-<br>
-
----
+<br/>
 
 <div align="center">
 
-### 💖 **THANK YOU FOR VISITING!**
+### ⭐ If you like my work, consider starring my repositories!
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+<img src="https://img.shields.io/github/stars/Tejas1024?style=social" alt="GitHub Stars"/>
 
-```python
-while True:
-    code()
-    learn()
-    build()
-    repeat()
-    
-print("See you in the next commit! 👋")
-```
+<br/><br/>
 
-<sub>⚡ Powered by passion, fueled by coffee, driven by curiosity</sub>
+**💖 Thank you for visiting my profile!**
 
-<br>
+<sub>⚡ Powered by passion · Fueled by curiosity · Driven by innovation</sub>
 
-<!-- VISITOR COUNTER -->
-<img src="https://profile-counter.glitch.me/Tejas1024/count.svg" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Build%20Together&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,12,20,24,27,30&height=150&section=footer&text=Let's%20Build%20the%20Future%20Together!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
